@@ -23,7 +23,7 @@ function App() {
                 <Route path='/login' element={<Login />} />
               </Routes>
             </Content>
-            <Footer>@Irene by ITentika</Footer>
+            <Footer>@Irene</Footer>
           </Layout>
         </div>
     </BrowserRouter>
